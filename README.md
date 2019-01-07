@@ -58,4 +58,3 @@ wheel	0.32.3	0.32.3
 
 On top of this the files from UCL Moodle need to be downloaded and put in the same directory (shape_predictor_68_face_landmarks.dat). The face data set of 5000 also needs to be installed and saved in the directory in the path: dataset\faceDat.
 
-Lastly, the cnnmodel1.h5py contains the CNN model for the hair classification task. 
