@@ -7,6 +7,8 @@ The dataset folder contains the label file used in all experiments. The final ve
 
 The sublemental files folder contains the csv files produced by the code of the test data, as well as a word file with all the results noted down during the experiments. 
 
+There is also a folder with extra_test results on the data provided by Professor Andreopoulos.
+
 In order to test run this code, the files need to preferably be important in PyCharm, with the same names etc. 
 
 The following packages would need to be installed:
